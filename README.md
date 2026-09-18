@@ -1,6 +1,5 @@
 # 个人作品集
 
-主页链接：[https://github.com/gtq23333](https://github.com/gtq23333)
 
 这里主要放个人项目作品的简要介绍，项目源码请移步我的 [GitHub 主页](https://github.com/gtq23333)。
 
